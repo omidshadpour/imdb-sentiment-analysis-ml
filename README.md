@@ -36,21 +36,36 @@ sentiment_analysis_project/
 │   └── best_model.pkl
 
 │
+
 ├── reports/
+
 │   └── plots/
+
 │       ├── confusion_matrix.png
+
 │       ├── confusion_matrix_normalized.png
+
 │       └── roc_curve.png
+
 │
+
 ├── src/
+
 │   ├── data_preprocessing.py
+
 │   ├── text_preprocessing.py
+
 │   ├── train_models.py
+
 │   ├── evaluation.py
+
 │   └── predict.py
+
 │
 ├── main.py
+
 └── README.md
+
 
 
 🧹 Text Preprocessing
