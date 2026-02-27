@@ -23,12 +23,18 @@ Clean, modular, industry‑standard project structure
 
 sentiment_analysis_project/
 │
+
 ├── data/
+
 │   └── raw/
+
 │       └── IMDB Dataset.csv
+
 │
 ├── models/
+
 │   └── best_model.pkl
+
 │
 ├── reports/
 │   └── plots/
